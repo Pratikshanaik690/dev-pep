@@ -1,0 +1,14 @@
+{
+  "name": "createfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myMkdir1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myMkdir": "myMkdir3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
